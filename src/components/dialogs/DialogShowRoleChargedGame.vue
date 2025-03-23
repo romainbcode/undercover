@@ -51,7 +51,7 @@ function validate() {
 	const userTmp = users[indexClicked]
 
 	users[indexClicked] = users[indexUserName];
-	users[indexUserName] = userTmp;*/    
+	users[indexUserName] = userTmp;xscsfrsfrfr*/    
 
 	localStorage.setItem('game', JSON.stringify(users));
 	emit("emitCloseDialogShowName", false)
