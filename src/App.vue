@@ -1,4 +1,5 @@
 <template>
+  .
   <v-app>
     <v-app-bar :elevation="0" class="position-relative" style="height: 12%"> 
       <template v-slot:prepend >
@@ -64,7 +65,7 @@ function resetGoToHome() {
 
 function resetValuesStore() {
   cmpPlayerAlreadySelectedRole.value = 0;
-  titleNavbar.value = 'Undercover';
+  titleNavbar.value = 'Undercover!!!';
   descriptionNavbar.value = '';
 }
 </script>
