@@ -6,7 +6,7 @@
       </v-card-title>
       <v-card-text>
         <v-row justify="center" class="mb-10">
-          <img class="logo-role" src="../assets/inspecteur_mrwhite.png"/>
+          <img class="logo-role" src="../../assets/inspecteur_mrwhite.png"/>
         </v-row>
         <v-row>
             <v-text-field
